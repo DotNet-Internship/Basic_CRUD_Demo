@@ -1,0 +1,57 @@
+1. Create .Net API project
+
+
+
+
+
+
+2. Project SetUp
+ - Install dependencies
+           . efCore, efcore.sqlserver, efcore.tools
+
+ - Register Dependencies
+           . Configure connectionString
+		   . Create Student Entity/Model
+		   . Create DBContext and add the student model
+           . Register ConnectionString and DBContext in Program class.                                    
+
+
+ - Apply Migration
+           . add-migration "initial_migration"
+		   . update-database
+
+
+
+3. API Creation (Repository Pattern)
+  
+ - Create API
+          . Create interface and repository
+		  . Declare create method with its DTO and response type (bool)
+		  . Repository inherets interface
+		  . Inject DBContext through the constructor of repository
+		  . Do Concrete implementation of the create method
+		  . Register Interface mapping to Repository in the program.cs class
+		  
+		  .Create controller
+		  .inject interface
+		  .Do an httpPost API calling the create method on interface
+		  
+		  
+ - Get API
+          . Declare the fetching method in the Interface(IStudent)
+		  . Implement the real code in the studentRepository.
+		  . Expose the method in the controller.
+		  
+		  
+		  
+- Update API
+          . Declare the fetching method in the Interface(IStudent)
+		  . Implement the real code in the studentRepository.
+		  . Expose the method in the controller.
+		  
+		  
+		  
+- Delete API
+          . Declare the fetching method in the Interface(IStudent)
+		  . Implement the real code in the studentRepository.
+		  . Expose the method in the controller.

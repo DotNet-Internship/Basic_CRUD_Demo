@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\infrastructure\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:infrastructure\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\infrastructure\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:infrastructure\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\migrations\\20240919200540_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:migrations\\20240919200540_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:38:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\StudentDTO.cs",
+              "RelativeToolTip": "Models\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:17:03.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudents.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\IStudents.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IStudents.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\IStudents.cs",
+              "RelativeToolTip": "Infrastructure\\IStudents.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:14:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\StudentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StudentRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:13:36.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:54:18.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:35:29.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240919200540_init.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Migrations\\20240919200540_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240919200540_init.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Migrations\\20240919200540_init.cs",
+              "RelativeToolTip": "Migrations\\20240919200540_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:05:40.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:44:44.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\DemoAPI.csproj",
+              "RelativeDocumentMoniker": "DemoAPI.csproj",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\DemoAPI.csproj",
+              "RelativeToolTip": "DemoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T19:34:28.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T19:27:39.971Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
