@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6cmSaaE6YFY=",
+  "dgSpecHash": "9FRhFLIrVlE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\DemoAPI.csproj",
+  "projectFilePath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\DemoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davee\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\davee\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

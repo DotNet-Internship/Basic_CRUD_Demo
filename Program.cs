@@ -1,3 +1,4 @@
+using DemoAPI;
 using DemoAPI.Infrastructure;
 using DemoAPI.Models;
 using Microsoft.EntityFrameworkCore;
@@ -20,7 +21,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseMiddleware<ErrorHandlingMiddleware>();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

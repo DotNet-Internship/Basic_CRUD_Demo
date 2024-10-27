@@ -1,45 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\infrastructure\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:infrastructure\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\infrastructure\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:infrastructure\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\infrastructure\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:infrastructure\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\infrastructure\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:infrastructure\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\migrations\\20240919200540_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\migrations\\20240919200540_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:migrations\\20240919200540_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\demoapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|c:\\users\\davee\\onedrive\\desktop\\internship\\democrud\\demoapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97233BEF-5203-4ECC-849A-931A4404009E}|DemoAPI.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,29 +73,146 @@
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-27T21:20:38.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:53:18.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T20:38:18.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "IStudents.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Infrastructure\\IStudents.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IStudents.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Infrastructure\\IStudents.cs",
+              "RelativeToolTip": "Infrastructure\\IStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:14:00.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Infrastructure\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Infrastructure\\StudentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StudentRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAgwFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:13:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\DemoAPI.csproj",
+              "RelativeDocumentMoniker": "DemoAPI.csproj",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\DemoAPI.csproj",
+              "RelativeToolTip": "DemoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T19:34:28.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:54:18.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:01:08.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:35:29.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T19:27:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\StudentDTO.cs",
               "RelativeDocumentMoniker": "Models\\StudentDTO.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\StudentDTO.cs",
               "RelativeToolTip": "Models\\StudentDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,59 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudents.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\IStudents.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\IStudents.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\IStudents.cs",
-              "RelativeToolTip": "Infrastructure\\IStudents.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:14:00.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Infrastructure\\StudentRepository.cs",
-              "RelativeToolTip": "Infrastructure\\StudentRepository.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAkwEAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:13:36.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T19:54:18.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T19:35:29.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "20240919200540_init.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Migrations\\20240919200540_init.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Migrations\\20240919200540_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20240919200540_init.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Migrations\\20240919200540_init.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Migrations\\20240919200540_init.cs",
               "RelativeToolTip": "Migrations\\20240919200540_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,39 +232,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\Models\\ApplicationDBContext.cs",
               "RelativeToolTip": "Models\\ApplicationDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T19:44:44.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DemoAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\DemoAPI.csproj",
-              "RelativeDocumentMoniker": "DemoAPI.csproj",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\DemoAPI.csproj",
-              "RelativeToolTip": "DemoAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-19T19:34:28.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-19T19:27:39.971Z"
             }
           ]
         },

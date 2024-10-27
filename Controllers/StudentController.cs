@@ -17,7 +17,7 @@ namespace DemoAPI.Controllers
 
 
         [HttpPost("create_student")]
-        public async Task<bool> AddStudent(StudentDTO input)
+        public async Task<ApiResponse<bool>> AddStudent(StudentDTO input)
         {
            var result = await _studentService.CreateStudent(input);
             return result;
@@ -25,7 +25,7 @@ namespace DemoAPI.Controllers
 
 
         [HttpGet("all_students")]
-        public async Task<List<Student>> GetStudents(int pageSize, int pageNumber)
+        public async Task<ApiResponse<List<Student>>> GetStudents(int pageSize, int pageNumber)
         {
             var result = await _studentService.GetAllStudentsAsync(pageSize, pageNumber);
             return result;
@@ -44,6 +44,7 @@ namespace DemoAPI.Controllers
         [HttpDelete("item_delete")]
         public async Task<string> DeleteAsync(int id)
         {
+            throw new Exception();
             var result = await _studentService.Deleter(id);
             return result;
         }

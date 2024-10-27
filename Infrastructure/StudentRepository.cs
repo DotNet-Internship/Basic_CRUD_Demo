@@ -11,7 +11,7 @@ namespace DemoAPI.Infrastructure
             _dbContext = dbcontext;
         }
 
-        public async Task<bool> CreateStudent(StudentDTO input)
+        public async Task<ApiResponse<bool>> CreateStudent(StudentDTO input)
         {
             try
             {
@@ -21,19 +21,32 @@ namespace DemoAPI.Infrastructure
                 student.Address = input.Address;
                 await _dbContext.Students.AddAsync(student);
                 await _dbContext.SaveChangesAsync();
-                return true;
+                return new ApiResponse<bool>("Student created successfully", true);
             }
             catch (Exception ex)
             {
-                return false;
+                var error = new List<string> { ex.Message };
+               
+                return new ApiResponse<bool>(error, "An error occured, contact admin");
             }
         }
 
 
-        public async Task<List<Student>> GetAllStudentsAsync(int pageSize, int pageNumber)
+        public async Task<ApiResponse<List<Student>>> GetAllStudentsAsync(int pageSize, int pageNumber)
         {
-            var allStudents = await _dbContext.Students.Skip((pageNumber - 1) * pageSize).Take(pageSize).ToListAsync();
-            return allStudents;
+            try
+            {
+                var allStudents = await _dbContext.Students.Skip((pageNumber - 1) * pageSize).Take(pageSize).ToListAsync();
+                return new ApiResponse<List<Student>>("Request is successful", allStudents);
+
+            }
+            catch (Exception ex) {
+
+                var error = new List<string> { ex.Message};
+                return new ApiResponse<List<Student>>(error, "Could not fetch records. contact admin");
+            }
+
+
         }
 
 

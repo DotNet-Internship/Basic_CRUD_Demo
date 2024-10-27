@@ -2444,11 +2444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\DemoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\DemoAPI.csproj",
       "projectName": "DemoAPI",
-      "projectPath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\DemoAPI.csproj",
+      "projectPath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\DemoAPI.csproj",
       "packagesPath": "C:\\Users\\davee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoAPI\\obj\\",
+      "outputPath": "C:\\Users\\davee\\OneDrive\\Desktop\\Internship\\DemoCRUD\\DemoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\davee\\AppData\\Roaming\\NuGet\\NuGet.Config",

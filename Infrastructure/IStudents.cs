@@ -4,9 +4,9 @@ namespace DemoAPI.Infrastructure
 {
     public interface IStudents
     {
-        Task<bool> CreateStudent(StudentDTO input);
+        Task<ApiResponse<bool>> CreateStudent(StudentDTO input);
 
-        Task<List<Student>> GetAllStudentsAsync(int pageSize, int pageNumber);
+        Task<ApiResponse<List<Student>>> GetAllStudentsAsync(int pageSize, int pageNumber);
 
 
         Task<bool> UpdateAsync(int Id, StudentDTO data);
