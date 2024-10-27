@@ -55,3 +55,39 @@
           . Declare the fetching method in the Interface(IStudent)
 		  . Implement the real code in the studentRepository.
 		  . Expose the method in the controller.
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		   
+		  Best Practices
+		  1. Try Catch, 
+		  2. Global Error handler,
+		  3. Automapper
+		  4. Statuscode
+		  5. Nlog
+		  6. Uniform Response Object
+		  7. Restful Best practices
+		  8. JWT Authentication
+		  9. consuming external API
+		  
+		  
+		  
+		  
+		  
+		  UNIFORM RESPONSE
+		  
+		  1  Create a uniform response class.
+		  -  create a constructor for success case and another for failure cases
+		  -  return uniform response type passing the appropriete constructor parameters.
+		  
+		  
+		  
+		  
+		  GLOBAL ERROR HANDLER MIDDLEWARE
+		  
+		  - create a method that takes the httpcontext and exeption, then returns a uniform response for that error
+		  - create an exemption middleware with try-catch, call the method above in the catch block.
